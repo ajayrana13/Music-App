@@ -12,7 +12,7 @@ export interface Song {
 
 export const BOLLYWOOD_SONGS: Song[] = [
   {
-    id: '3',
+    id: '1',
     title: 'Tum Hi Ho',
     artist: 'Arijit Singh',
     url: 'https://djjohal.it.com/songs/128/Punjabi/361/Tum%20Hi%20Ho%20-%20Djjohal.fm.mp3',
@@ -34,7 +34,7 @@ export const BOLLYWOOD_SONGS: Song[] = [
     category: 'Hindi Hits'
   },
   {
-    id: '1',
+    id: '3',
     title: 'Paradox',
     artist: 'Dhanda Nyoliwala',
     url: 'https://cdnsongs.com/music/data/Haryanvi/202602/Paradox/128/Paradox_1.mp3',
